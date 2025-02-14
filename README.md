@@ -1,6 +1,6 @@
 # Conversor de Moedas - Bot do Discord  
 
-Este é um **bot para Discord** desenvolvido em **Python** que permite aos usuários converter moedas em tempo real diretamente no chat do servidor. O bot utiliza a **API da AwesomeAPI** para obter cotações atualizadas e calcular a conversão automaticamente.  
+Este é um **bot para Discord** desenvolvido em **Python** que permite aos usuários converter moedas em **tempo real** diretamente no chat do servidor. O bot utiliza a **API da AwesomeAPI** para obter cotações atualizadas e calcular a conversão **automaticamente**.  
 
 ---
 
